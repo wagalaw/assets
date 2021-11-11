@@ -1,0 +1,10 @@
+    "name": "Baby CateCoin",
+    "website": "https://babycatecoin.net/",
+    "description": "Baby CateCoin is a meme token that will have utility (e.g. Baby Cate Coin Swap, NFT Marketplace, Merch Shop, Wallet and P2E). It has a very strong community and a very hard working team that has a sole goal to make this successful.",
+    "explorer": "https://bscscan.com/address/0x1529642cd0075d3da049aa43005fdfabca54a070",
+    "type": "BEP20",
+    "symbol": "BabyCATE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x1529642cd0075d3da049aa43005fdfabca54a070"
+}
